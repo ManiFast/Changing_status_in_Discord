@@ -11,7 +11,7 @@ u should take your token ([how to take dsc token](https://discordhelp.net/discor
 When u know token, go to plugin settings and
 
 
-# Table of Contents  
+# Table of Contents   
 - [Nodejs-AuthApp](#nodejs-authapp)
 
 #nodejs-authapp
