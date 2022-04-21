@@ -19,3 +19,4 @@ When u know token, go to plugin settings and
 # How to take dsc token
 Go to [site](https://discordhelp.net/discord-token) and find with help of screenshot file "**science**"
 <ing src="https://github.com/ManiFast/Changing_status_in_Discord/blob/main/Photoes/Screenshot%20(116).png" alt="drawing" width="200" height="200"/>
+ 
