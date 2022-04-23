@@ -8,7 +8,7 @@ Firstly u must download and install **[Betterdiscord](https://betterdiscord.app/
 then go to Settings>Plugins and click *Open Plugins Folder*</br>
 paste this **[files](https://downgit.github.io/#/home?url=https://github.com/ManiFast/Changing_status_in_Discord/tree/main/Plugins_files)** to folder and turn on plugin</br> 
 u should take your token ([how to take dsc token](https://discordhelp.net/discord-token))</br>
-When u know token, go to plugin settings and
+When u know token, go to plugin settings and 
 
 
 # Table of Contents   
