@@ -12,6 +12,7 @@
 + Go to plugins folder and create new .txt file, open it via [notepad++](https://notepad-plus-plus.org/downloads/v8.2.1/) then for example I take a lyrics of Edamame song, copy this text to file <br/><img  src="https://github.com/ManiFast/Changing_status_in_Discord/blob/main/Photoes/textSongUsual.png" width="500" height="200"/>
 + Press Ctrl+H and mark *Wrap around* and *Regular expression*, in first column write ```^``` second write ```"``` and press **Replace All**
 <img src="https://github.com/ManiFast/Changing_status_in_Discord/blob/main/Photoes/leftAdd.png" />
+
 + Again press Ctrl+H and write in first column ```$``` second ```"```
 And now you have text with quotes left and right sides. Copy this text and go to plugin settings <img src="https://github.com/ManiFast/Changing_status_in_Discord/blob/main/Photoes/Screenshot%202022-04-30%20124523.png" width="20" height="18" alt="Settings"/> and paste this in column **Animation**, press save and all done ! You can see changing status in your profile.
 
