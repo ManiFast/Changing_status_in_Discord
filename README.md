@@ -20,7 +20,8 @@ And now you have text with quotes left and right sides. Copy this text and go to
 
 ### Random Numbers
 If you are interesting you can show random numbers in profile just download this [text](https://github.com/ManiFast/Changing_status_in_Discord/blob/main/NumbersCount/Text-numbers.txt) and put it in **Animation**
-<img src="https://github.com/ManiFast/Changing_status_in_Discord/blob/main/NumbersCount/Nums.png" />
+<img src="https://github.com/ManiFast/Changing_status_in_Discord/blob/main/NumbersCount/Nums.png"/>
+
 Generate new numbers you can download my [program](https://downgit.github.io/#/home?url=https://github.com/ManiFast/Changing_status_in_Discord/blob/main/NumbersCount/RandomGenerate.cpp) and copy values from it.
 
 #### Notes
