@@ -18,5 +18,5 @@ And now you have text with quotes left and right sides. Copy this text and go to
 ### Contents
 
 #### Take_token
-Go to [site](https://discordhelp.net/discord-token) and find with help of screenshot file "**science**"
-<ing src="https://github.com/ManiFast/Changing_status_in_Discord/blob/main/Photoes/Screenshot%20(116).png" alt="drawing" width="200" height="200"/>
+Go to [site](https://discordhelp.net/discord-token) and find file "**science**" like in screenshot (click to increase the size)
+<img src="https://github.com/ManiFast/Changing_status_in_Discord/blob/main/Photoes/Screenshot%20(116).png" width="600" height="300" alt="drawing"/>
