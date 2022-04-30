@@ -21,8 +21,8 @@ Creating files with differents ready textes are easelly help you to switch anima
 Dont write time less then 5000 ms in keyframe.<br/>
 You can create different animation just improve mind ! gl
 
+ ---
 ### Contents
-
 #### Take_token
 Go to [site](https://discordhelp.net/discord-token) and find file "**science**" like in screenshot (click to increase the size)
 <img src="https://github.com/ManiFast/Changing_status_in_Discord/blob/main/Photoes/Screenshot%20(116).png" width="600" height="300" alt="drawing"/>
