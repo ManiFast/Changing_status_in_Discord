@@ -1,4 +1,4 @@
-//META{"name":"AnimatedStatus"}*//
+//META{"name":"AnimatedStatus"}*// 
 
 class AnimatedStatus {
 /* BD functions */
