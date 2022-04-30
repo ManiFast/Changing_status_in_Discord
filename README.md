@@ -1,6 +1,7 @@
 # Changing_status_in_Discord 
 
-### In my tutorial u will be able to show ur own statuses in dsc, and even u can show whole lyrics of songs :D
+### In my tutorial u will be able to show ur own statuses in dsc, and even u can show whole lyrics of songs :D<br/>
+<p align="right">Created on  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="20" height="20"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/2367px-Notepad%2B%2B_Logo.svg.png" width="20" height="20"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="18" height="20"/><p/><br/>
 ###### Animated Status v0.8.4 by toluschr
 
  
