@@ -16,6 +16,11 @@
 + Again press Ctrl+H and write in first column ```$``` second ```"```
 And now you have text with quotes left and right sides. Copy this text and go to plugin settings <img src="https://github.com/ManiFast/Changing_status_in_Discord/blob/main/Photoes/Screenshot%202022-04-30%20124523.png" width="20" height="18" alt="Settings"/> and paste this in column **Animation**, press save and all done ! You can see changing status in your profile.
 
+#### Notes
+Creating files with differents ready textes are easelly help you to switch animation.<br/>
+Dont write time less then 5000 ms in keyframe.<br/>
+You can create different animation just improve mind ! gl
+
 ### Contents
 
 #### Take_token
