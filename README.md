@@ -1,7 +1,7 @@
 # Changing_status_in_Discord 
 
 ### In my tutorial u will be able to show ur own statuses in dsc, and even u can show whole lyrics of songs :D<br/>
-<p align="right">Created on  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="20" height="20"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/2367px-Notepad%2B%2B_Logo.svg.png" width="20" height="20"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="18" height="20"/><p/><br/>
+<p align="right">Created on  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="20" height="20"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="18" height="20"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/2367px-Notepad%2B%2B_Logo.svg.png" width="20" height="20"/><p/><br/>
 ###### Animated Status v0.8.4 by toluschr
 
  
@@ -16,6 +16,11 @@
 
 + Again press Ctrl+H and write in first column ```$``` second ```"```
 And now you have text with quotes left and right sides. Copy this text and go to plugin settings <img src="https://github.com/ManiFast/Changing_status_in_Discord/blob/main/Photoes/Screenshot%202022-04-30%20124523.png" width="20" height="18" alt="Settings"/> and paste this in column **Animation**, press save and all done ! You can see changing status in your profile.
+
+### Random Numbers
+If you are interesting you can show random numbers in profile just download this [text](https://github.com/ManiFast/Changing_status_in_Discord/blob/main/NumbersCount/Text-numbers.txt) and put it in **Animation**
+<img src="https://github.com/ManiFast/Changing_status_in_Discord/blob/main/NumbersCount/Nums.png" />
+Generate new numbers you can download my [program](https://downgit.github.io/#/home?url=https://github.com/ManiFast/Changing_status_in_Discord/blob/main/NumbersCount/RandomGenerate.cpp) and copy values from it.
 
 #### Notes
 Creating files with differents ready textes are easelly help you to switch animation.<br/>
