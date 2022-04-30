@@ -10,7 +10,7 @@
 + Paste this **[files](https://downgit.github.io/#/home?url=https://github.com/ManiFast/Changing_status_in_Discord/tree/main/Plugins_files)** to folder and turn on plugin</br>  
 + You should take your token ([how to take dsc token](#take_token))</br>
 + When you know token, go to plugin settings <img src="https://github.com/ManiFast/Changing_status_in_Discord/blob/main/Photoes/Screenshot%202022-04-30%20124523.png" width="20" height="18" alt="Settings"/> and in column **AuthToken** paste token, then in **Time per Keyframe** write "5000" its 5 seconds (*not less ! otherwise u will get ban*)
-+ Go to plugins folder and create new .txt file, open it via [notepad++](https://notepad-plus-plus.org/downloads/v8.2.1/) then for example I take a lyrics of Edamame song, copy this text to file <br/><img  src="https://github.com/ManiFast/Changing_status_in_Discord/blob/main/Photoes/textSongUsual.png" width="500" height="200"/>
++ Go to plugins folder and create new .txt file, open it via <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/2367px-Notepad%2B%2B_Logo.svg.png" width="20" height="20"/>[notepad++](https://notepad-plus-plus.org/downloads/v8.2.1/) then for example I take a lyrics of Edamame song, copy this text to file <br/><img  src="https://github.com/ManiFast/Changing_status_in_Discord/blob/main/Photoes/textSongUsual.png" width="500" height="200"/>
 + Press Ctrl+H and mark *Wrap around* and *Regular expression*, in first column write ```^``` second write ```"``` and press **Replace All**
 <img src="https://github.com/ManiFast/Changing_status_in_Discord/blob/main/Photoes/leftAdd.png" />
 
